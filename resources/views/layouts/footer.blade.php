@@ -17,6 +17,6 @@
         </li> --}}
     </ul>
     <span class="copyright ml-auto my-auto mr-2">Copyright © 2021
-        <a href="#" rel="nofollow">Alfa</a>
+        <a href="#" rel="nofollow">Dyaksa</a>
     </span>
 </footer>
